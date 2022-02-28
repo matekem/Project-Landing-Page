@@ -16,6 +16,7 @@ html ,body {
     font-size : 20px;
     padding-left : 300px;
     padding-right : 300px;
+    padding-bottom :90px;
 }
 
 ul{
@@ -37,5 +38,44 @@ li{
     font-weight: bold;
 }
 
+.mainbox{
+    background-color: #1f2937;
+    color: white;
+    display:flex;
+    padding-left : 300px;
+    padding-right : 300px;
+}
+.maintext h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color:#f9faf8;
+   margin-bottom:1px;
+   margin-top :0px;
+}
+.maintext p {
+   font-size: 18px;
+   color: #e5e7eb;  
+   margin-top :1px;
+}
+.maintext{
+    width: 480px;
+}
+.maintext button{
+    background-color:#3882f6;
+    padding: 8px 35px;
+    font-size:18px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 8px;
+    border: none;
+    color:white;
+    margin-bottom: 250px;
+}
+.mainimg img{
+    width: 550px;
+    display: inline-block;
+    margin-left:  300px;
+    border-radius:5px ;
+}
 
 
