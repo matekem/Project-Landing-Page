@@ -94,7 +94,7 @@ li{
     font-weight: bolder;
 }
 .image-subtext p{
-    width:180px;
+    width:200px;
     text-align: center;   
 }
 
@@ -109,21 +109,25 @@ li{
     border-radius: 10px;
     border:solid blue 2px;
     width:200px;
+    
 }
 .second{
     display: flex;
     flex-direction: column;
     margin-bottom: 120px;
+    
+    
 }
 .images-second{
     display: flex;
+   
 }
 .third{
     display: flex;
     flex-direction: column;
     background-color: #e5e7eb;
     width: 1200px;
-padding-left: 350px;
+padding-left: 300px;
 
 overflow: hidden;
 padding-bottom: 100px;
