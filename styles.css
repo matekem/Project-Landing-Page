@@ -35,7 +35,7 @@ li{
 .logo{
     font-size: 24px;
     color: #f9faf8;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 .mainbox{
@@ -44,6 +44,7 @@ li{
     display:flex;
     padding-left : 300px;
     padding-right : 300px;
+    
 }
 .maintext h1{
     font-size: 48px;
@@ -58,7 +59,8 @@ li{
    margin-top :1px;
 }
 .maintext{
-    width: 480px;
+    width: 450px;
+    padding-right: 110px;
 }
 .maintext button{
     background-color:#3882f6;
@@ -72,10 +74,12 @@ li{
     margin-bottom: 125px;
 }
 .mainimg img{
-    width: 550px;
-    display: inline-block;
-    margin-left:  300px;
-    border-radius:5px ;
+    /*width: 550px;*/
+    /*display: inline-block;*/
+    float: inline-end;
+   /* padding-left:  200px;*/
+    padding-bottom: 100px;
+     ;
 }
 
 
