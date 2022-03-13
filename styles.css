@@ -125,12 +125,10 @@ li{
 .third{
     display: flex;
     flex-direction: column;
-    background-color: #e5e7eb;
-    width: 1200px;
-padding-left: 300px;
-
-overflow: hidden;
-padding-bottom: 100px;
+    background-color: #e5e7eb; 
+    padding-left: 300px;
+    padding-right:300px;    
+    padding-bottom: 100px;
 }
 .quote blockquote{
 text-align: left;
@@ -147,8 +145,8 @@ color:#1f2937;
     width: 80%;
     margin-top: 150px;
     margin-bottom: 0px;
-    /*margin-left: 300px;*/
-   /* margin-right: 600px;*/
+    
+    
     border-radius: 8px;
     padding-left: 100px;
     padding-right:100px;
